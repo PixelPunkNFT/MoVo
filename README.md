@@ -1,6 +1,6 @@
 # Movo - App Passaggi & Prevendite per Locali Latini Roma
 
-**Piattaforma web per condividere passaggi e rivendere biglietti per la community latina di Roma**
+**Piattaforma web per condividere passaggi e rivendere biglietti per la community  di Roma**
 
 ---
 
